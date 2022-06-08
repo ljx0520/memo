@@ -4,4 +4,4 @@ To complete this exercise, please send us the transaction signature for an invoc
 
 To get you started, we have provided the starter code in [`index.js`](index.js).
 
-_Note: If you find the job application does not have a field to provide us with the transaction signature, please include it in your resume instead._
+_Note: If you find the job application does not have a field to provide us with the transaction signature, please include it in your resume instead or email it to jobs+screening@labeleven.dev_
