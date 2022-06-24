@@ -1,0 +1,11 @@
+{
+  "name": "memo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.44.2"
+  }
+}
